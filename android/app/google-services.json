@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "123492829144",
+    "project_id": "data-collecting-5370b",
+    "storage_bucket": "data-collecting-5370b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123492829144:android:69554ab378dedb680714ad",
+        "android_client_info": {
+          "package_name": "com.example.eyu_data_collection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123492829144-2oetpfh8cmj0ec3g53oseq4bhebksull.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtYetfUXat2s7VPGzrnNQg-zGSv4AfV4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123492829144-2oetpfh8cmj0ec3g53oseq4bhebksull.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
